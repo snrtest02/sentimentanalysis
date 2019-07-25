@@ -12,8 +12,8 @@ pool:
 
 variables:
     azureSubscriptionEndpoint: finservrg
-    azureContainerRegistry: jpworkshop.azurecr.io
-    Build.Repository.Name: sanjshah2001/sentimentanalysis
+    azureContainerRegistry: snrtest02.azurecr.io
+    Build.Repository.Name: snrtest02/sentimentanalysis
     Image: timeseries
     
 steps:
